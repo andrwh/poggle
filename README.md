@@ -1,6 +1,8 @@
-# Poggle built with create-react-app
+# Poggle
 
-## Clone this repo
-## npm start
+Project built with create-react-app  
+
+Clone this repo  
+npm start  
 
 ![for reference](https://raw.githubusercontent.com/andrwh/poggle/master/reference.jpg)
